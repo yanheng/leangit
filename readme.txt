@@ -7,3 +7,4 @@ or
 git branch dev
 git checkout dev
 
+git branch -d dev
