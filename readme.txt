@@ -8,3 +8,7 @@ git branch dev
 git checkout dev
 
 git branch -d dev
+
+git --no-ff
+
+git --no-ff
